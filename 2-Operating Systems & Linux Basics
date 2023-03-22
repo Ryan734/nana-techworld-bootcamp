@@ -3,7 +3,11 @@ Exercises for Module "Linux"
 
 
 EXERCISE 1: Linux Mint Virtual Machine
-Create a Linux Mint Virtual Machine on your computer. Check the distribution, which package manager it uses (yum, apt, apt-get). Which CLI editor is configured (Nano, Vi, Vim). What software center/software manager it uses. Which shell is configured for your user. 
+Create a Linux Mint Virtual Machine on your computer (Screenshot 2023-03-22 at 13.34.00.png). 
+Check the distribution, which package manager it uses (yum, apt, apt-get): 
+Which CLI editor is configured (Nano, Vi, Vim): 
+What software center/software manager it uses: 
+Which shell is configured for your user: 
 
 
 
